@@ -1,0 +1,21 @@
+# AI-Enhanced Warehouse Optimization System
+# AIoT Project - AI + IoT for Smart Warehousing
+
+# AI/Machine Learning - YOLO Object Detection
+torch>=2.0.0
+torchvision>=0.15.0
+ultralytics>=8.0.0
+
+# Computer Vision & Image Processing
+opencv-python>=4.8.0
+pillow>=10.0.0
+
+# Data Processing & Analysis
+numpy>=1.24.0
+pandas>=2.0.0
+
+# 3D Visualization
+plotly>=5.17.0
+
+# Utilities
+tqdm>=4.65.0
